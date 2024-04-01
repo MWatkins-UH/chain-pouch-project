@@ -1,2 +1,2 @@
-# chain-pouch-project-
+# Chain Pouch Project
 Some content
