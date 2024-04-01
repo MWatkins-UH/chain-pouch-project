@@ -18,7 +18,7 @@ To setup your project, use the previous worksheet to initialise your project tog
 --- 
 
 ### A 15 Min Review Presentation 
-To complete this task, you are expected to briefly outline the purpose of testing before focusing on unit and integration tests supported with an understanding of a TDD or BDD approach to any associated user-based stories.  Your review is expected to be a live presentation (up to a max duration of 15mins). Ideally, demonstrating a walk-through of the project, test planning, test scripts and your test results; see the details below for an overall breakdown of the requirements; the presentation should include evidence of your actual project with explained and highlighted tests scripts, live testing and evaluated results (i.e., show and tell).
+To complete this task, you are expected to briefly outline the purpose of testing before focusing on unit and integration tests supported with an understanding of a TDD or BDD approach to any associated user-based stories.  Your review is expected to be a live presentation (up to a max duration of 15mins). Ideally, demonstrating a walk-through of the project, test planning, test scripts and your test results; see the details below for an overall breakdown of the requirements; the presentation should include evidence of your actual project with explained and highlighted tests scripts, live testing and evaluated results (i.e., show and tell). Jest can be configured to create coverage information via a html document, use https://htmlpreview.github.io to view github hosted html documents; e.g., use the example address https://github.com/MWatkins-UH/chain-pouch-project/blob/main/chainpouch/tests/coverage/lcov-report/index.html
 
 ---
 
